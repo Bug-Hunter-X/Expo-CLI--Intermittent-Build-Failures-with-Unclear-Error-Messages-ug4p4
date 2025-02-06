@@ -1,0 +1,1 @@
+While building an Expo project, I encountered a strange error related to the Expo CLI. The error message was vague and didn't provide much context, making it difficult to diagnose the problem. The build process would fail intermittently, sometimes succeeding on the same codebase without any changes. This behavior made it hard to pinpoint the cause and implement a reliable fix.
